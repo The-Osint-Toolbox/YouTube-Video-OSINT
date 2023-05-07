@@ -2,7 +2,7 @@
 <p align="center">
       <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
     </p>
-<p align="center">This repository ywill help you with your YouTube and other video OSINT.</p>
+<p align="center">This repository will help you with your YouTube and other video OSINT.</p>
 <br></br>
 <ul>
 <li><a href="https://otter.ai/">Otter.ai</a></li>
