@@ -4,6 +4,11 @@
     </p>
 <p align="center">This repository will help you with your YouTube and other video OSINT.</p>
 <br></br>
+<<table>
+    <tr>
+        <td>Editing</td>
+    </tr>
+</table>      <td> 
 <ul>
 <li><a href="https://otter.ai/">Otter.ai</a></li>
  <p>Get an AI meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.</p>
