@@ -51,7 +51,9 @@
 <li><a href="https://youtube.github.io/geo-search-tool/search.html">Geosearch</a></li> 
  <p>Geo search locations for YouTube videos.</p>
 <li><a href="https://hashatit.com/">Hash At It</a></li>
- <p>Hashtag search engine.</p>     
+ <p>Hashtag search engine.</p>
+<li><a href="https://www.lifewire.com/link-to-specific-part-of-youtube-video-1616414">Lifewire</a></li> 
+ <p>How to link to a specific part of a YouTube video.</p>  
 <li><a href="https://mattw.io/">Mattw</a></li> 
  <p>A suite of YouTube resources.</p>
 <li><a href="https://https://polsy.org.uk/play/yt/">Polsy</a></li> 
