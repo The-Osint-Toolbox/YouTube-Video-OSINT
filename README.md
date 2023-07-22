@@ -4,7 +4,7 @@
     </p>
 <p align="center">This repository will help you with your YouTube and other video OSINT.</p>
 <br></br>
-<<table>
+<table>
     <tr>
         <td>Editing</td>
     </tr>
