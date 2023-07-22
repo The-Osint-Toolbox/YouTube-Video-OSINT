@@ -74,8 +74,8 @@
  <p>Obtains data about a YouTube video.</p>
 <li><a href="https://mattw.io/youtube-geofind/location">YouTube Geofind</a></li>
  <p>Web-tool to search YouTube for geographically tagged videos by channel, topic, and location. Videos are viewable in a map and exportabled to CSV.</p> 
-<li><a href="https://youtube-lookup.vercel.app/">YouTube Lookup</a></li> 
- <p>Simple Youtube metaData lookup.</p>
+<li><a href="https://youtube-lookup.vercel.app/">YouTube Lookup</a></li>
+ <p>Simple Youtube metadata lookup.</p>
 <li><a href="https://github.com/TheTechRobo/youtubevideofinder">YouTube Video Finder</a></li> 
  <p>Searches for lost YouTube videos in archives.</p>
 <li><a href="https://github.com/yt-dlp/yt-dlp">YouTube-dlp</a></li>
