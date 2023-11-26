@@ -82,6 +82,8 @@
  <p>A youtube-dl fork with additional features and fixes.</p>
 <li><a href="https://github.com/ytdl-org/youtube-dl">YouTube-dl</a></li>
  <p>Command-line program to download videos from YouTube.com and other video sites.</p>
+<li><a href="https://seintpl.github.io/ytxtractor/">YTXtractor</a></li>
+ <p>Paste a Youtube link below and press "Go!" to extract data and pictures of a Youtube video.</p>
 </ul> 
 <br></br>
  <table>
