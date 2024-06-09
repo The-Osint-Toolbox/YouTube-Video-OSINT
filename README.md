@@ -20,24 +20,6 @@
 <br></br>
 <table>
     <tr>
-        <td>Blogs</td>
-    </tr>
-</table>
-<ul>
-<li><a href="https://www.aware-online.com/en/osint-tutorials/save-a-facebook-video/">Aware-Online</a></li>
- <p>How to save a Facebook video.</p>
-<li><a href="https://www.aware-online.com/en/how-to-save-an-instagram-video/">Aware-Online</a></li> 
- <p>How to save an Instagram video.</p>
-<li><a href="https://www.aware-online.com/en/5-ways-to-download-videos-on-twitter/">Aware-Online</a></li>
- <p>5 ways to download a Twitter video.</p>
-<li><a href="https://os2int.com/toolbox/analysing-youtube-video-playlist-and-channel-metadata/">OS2INT</a></li>
- <p>Analysing Youtube Video Playlist and Channel Metadata.</p>
-<li><a href="https://osintcurio.us/2020/04/13/using-snapchat-for-osint-10-minute-tip/">TOCP</a></li> 
- <p>How to downlaod a video from Snapchat Map.</p>
-</ul>  
-<br></br>
-<table>
-    <tr>
         <td>YouTube Resources</td>
     </tr>
 </table>
