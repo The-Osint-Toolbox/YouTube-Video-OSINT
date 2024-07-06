@@ -1,6 +1,6 @@
 # YouTube & Video-OSINT
 <p align="center">
-      <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+      <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
     </p>
 <p align="center">This repository will help you with your YouTube and other video OSINT.</p>
 <br></br>
@@ -30,6 +30,8 @@
  <p>CaptionPop is the best way to experience YouTube as a language learner.</p>
 <li><a href="https://channelcrawler.com/">Channel Crawler</a></li> 
  <p>Filter for specific creators, make channel lists and find ways to contact them.</p>
+<li><a href="https://findyoutubevideo.thetechrobo.ca/?__cf_chl_rt_tk=wtSJtpaIXA_WMXeOImBZnaJXAWe29RFY9Zm3dHkRRmQ-1720111963-0.0.1.1-3902">Find YouTube Videos</a></li>
+ <p>Search several resources for archived YouTube video and metadata</p>
 <li><a href="https://filmot.com/">Filmot</a></li> 
  <p>Search within YouTube subtitles</p>
 <li><a href="https://youtube.github.io/geo-search-tool/search.html">Geosearch</a></li> 
