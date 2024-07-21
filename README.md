@@ -84,6 +84,17 @@
   <li><a href="https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli">YouTube & Article Summary powered by ChatGPT</a></li>
 </ul>
 <br></br>
+<table>
+    <tr>
+      </tr><td>Video Search</td>
+    </tr>
+</table>
+   <ul>
+    <li><a href="https://inphrase.com/?lang=en">InPhrase</a></li>
+      <p>inPhrase.com project is a new generation search engine that allows you to find the information you need among millions of audio and video files.</p>
+   </ul>
+
+
 
 
 
