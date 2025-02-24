@@ -42,6 +42,8 @@
  <p>How to link to a specific part of a YouTube video.</p>  
 <li><a href="https://mattw.io/">Mattw</a></li> 
  <p>A suite of YouTube resources.</p>
+<li><a href="https://playlists.at/youtube/search/">Playlists</a></li> 
+ <p>YouTube search engine.</p>     
 <li><a href="https://https://polsy.org.uk/play/yt/">Polsy</a></li> 
  <p>Strips out all the noise and obtains information about a YouTube video.</p>
 <li><a href="https://socialblade.com/">Socialblade</a></li> 
