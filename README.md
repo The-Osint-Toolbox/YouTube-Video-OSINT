@@ -40,6 +40,8 @@
  <p>Hashtag search engine.</p>
 <li><a href="https://www.lifewire.com/link-to-specific-part-of-youtube-video-1616414">Lifewire</a></li> 
  <p>How to link to a specific part of a YouTube video.</p>  
+<li><a href="https://youtube-tools.lolarchiver.com/">LolArchiver</a></li> 
+ <p>Retrieve the comments history of any YouTube user.</p>
 <li><a href="https://mattw.io/">Mattw</a></li> 
  <p>A suite of YouTube resources.</p>
 <li><a href="https://playlists.at/youtube/search/">Playlists</a></li> 
