@@ -50,6 +50,8 @@
  <p>Strips out all the noise and obtains information about a YouTube video.</p>
 <li><a href="https://socialblade.com/">Socialblade</a></li> 
  <p>Social Blade tracks user statistics for YouTube, Twitch, Instagram, and Twitter.</p>
+<li><a href="https://tubepilot.ai/tools/first-comment-finder/">TubePilot</a></li>
+ <p>First YouTube comment finder</p>
 <li><a href="https://www.y2mate.com/en562">Y2mate</a></li> 
  <p>Download Video and Audio from YouTube.</p>
 <li><a href="https://github.com/Owez/yark">Yark</a></li> 
