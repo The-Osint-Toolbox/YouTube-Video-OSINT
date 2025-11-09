@@ -14,6 +14,10 @@
  <p>Get an AI meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.</p>
 <li><a href="https://savesubs.com/">Savesubs</a></li>
  <p>Savesubs helps you convert edit and download subtitles from sites like youtube, viki, facebook, dailymotion and many other with ease.</p> 
+ <li><a href="https://usespottr.com/">Spottr</a></li> 
+  <p>Find anything in your videos - instantly. Perfect for wedding videos, security footage, legal reviews, and more.</p>
+<li><a href="https://www.youstitch.it/">You Stitch</a></li>
+ <p>Create a panorama from your video.</p>
 <li><a href="https://github.com/openai/whisper">Whisper</a></li>
  <p>Robust Speech Recognition via Large-Scale Weak Supervision.</p>
 </ul> 
@@ -100,8 +104,6 @@
    <ul>
     <li><a href="https://inphrase.com/?lang=en">InPhrase</a></li>
       <p>inPhrase.com project is a new generation search engine that allows you to find the information you need among millions of audio and video files.</p>
-    <li><a href="https://usespottr.com/">Spottr</a></li> 
-     <p>Find anything in your videos - instantly. Perfect for wedding videos, security footage, legal reviews, and more.</p>
    </ul>
 
 
