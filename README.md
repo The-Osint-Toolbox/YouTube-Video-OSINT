@@ -100,6 +100,8 @@
    <ul>
     <li><a href="https://inphrase.com/?lang=en">InPhrase</a></li>
       <p>inPhrase.com project is a new generation search engine that allows you to find the information you need among millions of audio and video files.</p>
+    <li><a href="https://usespottr.com/">Spottr</a></li> 
+     <p>Find anything in your videos - instantly. Perfect for wedding videos, security footage, legal reviews, and more.</p>
    </ul>
 
 
