@@ -16,10 +16,10 @@
  <p>Savesubs helps you convert edit and download subtitles from sites like youtube, viki, facebook, dailymotion and many other with ease.</p> 
  <li><a href="https://usespottr.com/">Spottr</a></li> 
   <p>Find anything in your videos - instantly. Perfect for wedding videos, security footage, legal reviews, and more.</p>
-<li><a href="https://www.youstitch.it/">You Stitch</a></li>
- <p>Create a panorama from your video.</p>
 <li><a href="https://github.com/openai/whisper">Whisper</a></li>
  <p>Robust Speech Recognition via Large-Scale Weak Supervision.</p>
+<li><a href="https://www.youstitch.it/">You Stitch</a></li>
+ <p>Create a panorama from your video.</p>
 </ul> 
 <br></br>
 <table>
