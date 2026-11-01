@@ -32,6 +32,8 @@
  <p>Search engine for finding deleted, removed, and unavailable YouTube videos.</p>
 <li><a href="https://www.androidpolice.com/2021/06/05/how-to-find-specific-parts-in-a-youtube-video-without-having-to-watch-the-whole-thing/">Android Police</a></li>
  <p>How to find specific parts in a YourTube video.</p>
+<li><a href="https://arcmira.com">Arcmira</a></li>
+ <p>Search indexed video transcripts for a spoken quote or speaker appearance, then open the original recording at the timestamp. Free tier available.</p>
 <li><a href="https://www.captionpop.com/">Caption Pop</a></li>
  <p>CaptionPop is the best way to experience YouTube as a language learner.</p>
 <li><a href="https://channelcrawler.com/">Channel Crawler</a></li> 
