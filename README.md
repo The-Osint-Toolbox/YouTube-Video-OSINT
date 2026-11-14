@@ -44,6 +44,8 @@
  <p>Search within YouTube subtitles</p>
 <li><a href="https://youtube.github.io/geo-search-tool/search.html">Geosearch</a></li> 
  <p>Geo search locations for YouTube videos.</p>
+<li><a href="https://getyoutubetranscript.com/">GetYouTubeTranscript</a></li>
+ <p>Get the transcript of a YouTube video with timestamps and export it as SRT, VTT, JSON, CSV, Markdown or TXT.</p>
 <li><a href="https://hashatit.com/">Hash At It</a></li>
  <p>Hashtag search engine.</p>
 <li><a href="https://www.lifewire.com/link-to-specific-part-of-youtube-video-1616414">Lifewire</a></li> 
